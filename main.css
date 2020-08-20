@@ -5,10 +5,10 @@
 }
 body{
     font-family: 'montserrat',sans-serif;
-    background-image: url('bg.jfif');
-    /* background-size: cover; */
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: url('bg.jpg');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
     background-size: 100% 100%;
 }
 .aap-wrap{
